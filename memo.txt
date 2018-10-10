@@ -1,1 +1,26 @@
-Test
+ORM-PARSER
+
+- verify developers with expecionaly large number of events in one quarter
+
+Id	Deweloper	                    2018-03-31 2018-06-30	2018-09-30
+298	Toscom Development Sp. z o.o.	        0	190	56
+296	Capital Towers MGroup Development	    0	224	43
+261	PPUIH Agrobex Sp. z o.o.	            0	549	38
+368	EBF DEVELOPMENT Sp. z o.o. Sp.K.	    0	118	26
+76	Rogowski Development	                2	13	361
+
+- new parsers
+
+Vis-a-Vis E2: https://stooq.pl/n/?f=1256290
+https://projektinwestor.pl/aktualnosc/kielce-wielofunkcyjny-kompleks-stanie-przy-lotniczej
+Jakon - Lwowksa 2: https://projektinwestor.pl/aktualnosc/poznan-jakon-buduje-w-sasiedztwie-malty
+Apartamenty Wrzoska: https://projektinwestor.pl/aktualnosc/kielce-lucz-bud-pozyskal-kontrakt-mieszkaniowy
+
+- check offers where there are new flats - WTF
+
+Osiedle Królewskie E3 - 629
+Rezydencja Epika - 839
+Apartamenty Foka - 847
+Śląskie Ogrody - Tychy - 274 - New Stage?
+
+- fix broken parsers
